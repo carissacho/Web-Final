@@ -151,9 +151,9 @@ button {
   height: auto;
 }
 
-.card #lang {
+.cards2 #lang {
   color: #625d95;
-  font-size: 3vw;
+  font-size: 2vw;
   text-align: center;
 }
 
@@ -288,13 +288,14 @@ cite{
   font-size: 1.8vw;
 }
 
-.cta__text {
+.cta__text p {
   padding: 2rem .5rem;
   font-size: .8rem;
   color: #625d95;
   border-top: 1px solid #dacabc;
   font-family: 'Inconsolata', monospace;
   font-size: 1.3vw;
+  text-align: center;
 }
 
 
